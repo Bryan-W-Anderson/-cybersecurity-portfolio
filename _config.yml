@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: bgilbert@meritamerica.org
-url: https://coachbeau.github.io/cyber-base
+title: Bryan Anderson
+email: bryanwanderson@gmail.com
+url: https://SynthwaveSpectre.github.io//cybersecurity-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+meta_author: 
 
 # Google webmaster tools
 google_verify:
@@ -46,11 +46,11 @@ social:
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:bgilbert@meritamerica.org
+  email-url: mailto:bryanwanderson@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
+  - line: Caton, Georgia
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
