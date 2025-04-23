@@ -1,6 +1,6 @@
 # Site settings
 title: Bryan Anderson
-email: mailto:www.bryanwanderson@gmail.com
+email: mailto:bryanwanderson@gmail.com
 url: https://Bryan-W-Anderson.github.io//cybersecurity-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
@@ -46,7 +46,7 @@ social:
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:https://www.bryanwanderson@gmail.com
+  email-url: mailto:bryanwanderson@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
