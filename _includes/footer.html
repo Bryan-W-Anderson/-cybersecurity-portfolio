@@ -16,8 +16,13 @@
           <ul class="list-inline">
             {% for network in site.social %}
             <li>
-              <a href="{{ network.url }}" class="btn-social btn-outline"><i
-                  class="fa-brands fa-fw fa-linkedin-in"></i></a>
+              <a href="{{ network.url }}" class="btn-social btn-outline">
+                {% if network.title == 'LinkedIn' %}
+                <i class="fa-brands fa-fw fa-linkedin-in"></i>
+                {% elsif network.title == 'My Certificate' %}
+                  <i class="fa-solid fa-fw fa-certificate"></i>
+                {% endif %}
+              </a>
             </li>
             {% endfor %}
             {% if site.email.email-url %}
