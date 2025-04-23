@@ -40,10 +40,8 @@ footer:
 social:
   - title: LinkedIn
     url: https://www.linkedin.com/in/bryanwanderson/
-    icon: fa-linkedin-in
   - title: My Certificate
     url: img/portfolio/Sec+.PNG
-    icon: fa-file-pdf
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
