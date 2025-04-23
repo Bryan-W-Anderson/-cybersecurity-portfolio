@@ -40,17 +40,17 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: LinkedIn
-    url: https://www.linkedin.com/in/bryan-anderson-8654678b/
+    url: https://www.linkedin.com/in/bryanwanderson/
   - title: Github
     url: https://github.com/Bryan-W-Anderson
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:bryanwanderson@gmail.com
+  email-url: mailto:https://www.bryanwanderson@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Caton, Georgia
+  - line: Canton, Georgia
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
